@@ -1,5 +1,5 @@
 # About Me:
-BCyber @ Carleton | SWE @ Kinaxis
+BCS @ Carleton | SWE @ Kinaxis
 
 #  Tech Stack:
 
