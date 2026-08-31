@@ -1,5 +1,5 @@
 # About Me:
-BCS @ Carleton | SWE @ Kinaxis
+BCS @ Carleton | SWE @ Tesla
 
 #  Tech Stack:
 
