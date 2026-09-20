@@ -1,16 +1,48 @@
-# About Me:
-Security @ Tesla | BCS @ Carleton
+# Mahmoud Berkoti
 
-#  Tech Stack:
+### Security research & engineering.
 
-**Languages:**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+Security Engineering Intern at **Tesla**. Computer Science at **Carleton University**.
 
-**Frameworks & Libraries:**  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+I find vulnerabilities, test how systems fail, and build tools to help defend them. My work spans application security, adversarial AI testing, and low-level security tooling.
 
-**DevOps & Cloud:**  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+[Portfolio ↗](https://berkotidev.vercel.app/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/mahmoud-berkoti-752841274/) &nbsp; · &nbsp; [Email ↗](mailto:M.berkoti@gmail.com)
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+## Selected work
+
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| **[Bastion](https://github.com/Mahmoud-Berkoti/Bastion)** | Packet filtering at the network driver with eBPF/XDP. | C · Go · eBPF |
+| **[Vigil](https://github.com/Mahmoud-Berkoti/Vigil)** | BGP route monitoring for hijacks, leaks, and invalid announcements. | C · SQLite · Prometheus |
+| **[Fuzzor](https://github.com/Mahmoud-Berkoti/Fuzzor)** | Adversarial testing for prompt injection, jailbreaks, and data leakage. | Python · FastAPI · Ollama |
+| **[Fracture](https://github.com/Mahmoud-Berkoti/Fracture)** | Offensive API testing for authorization and business-logic flaws. | Python · httpx · asyncio |
+
+[![Bastion CI](https://github.com/Mahmoud-Berkoti/Bastion/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Mahmoud-Berkoti/Bastion/actions/workflows/ci.yml)
+[![Vigil CI](https://github.com/Mahmoud-Berkoti/Vigil/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Mahmoud-Berkoti/Vigil/actions/workflows/ci.yml)
+
+## Toolkit
+
+**Build** &nbsp; C/C++ · Python · Go · Rust · TypeScript<br>
+**Test** &nbsp; SAST/DAST · Threat modeling · LLM security · Fuzzing<br>
+**Investigate** &nbsp; Linux · Wireshark · eBPF · SIGMA · Azure Sentinel
+
+<details>
+<summary>More about my work</summary>
+
+- **Application security:** exploit validation, memory-safety bugs, authorization flaws, and secret detection.
+- **AI security:** adversarial inputs, prompt injection, and detection engineering.
+- **Cloud security:** least-privilege IAM, Kubernetes hardening, and policy-gated delivery.
+- **Education:** Bachelor of Computer Science at Carleton University, expected December 2027.
+
+</details>
+
+## On GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img src="assets/activity-light.svg" alt="Public GitHub repository statistics. Values and snapshot date are displayed in the image." width="780">
+</picture>
+
+<sub>Real public-repository data, refreshed daily. Forks are excluded. [How this works](scripts/update_activity.py).</sub>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="164" viewBox="0 0 780 164" role="img" aria-labelledby="title desc">
+<title id="title">Public GitHub activity</title>
+<desc id="desc">16 public repositories, 0 stars, 7 primary languages. Updated 20 Sep 2026. Forks excluded.</desc>
+<rect width="780" height="164" rx="16" fill="#0d1117"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+<text x="28" y="64" font-size="34" font-weight="600" fill="#f0f3f6">16</text>
+<text x="28" y="91" font-size="14" fill="#9198a1">Public repositories</text>
+<text x="288" y="64" font-size="34" font-weight="600" fill="#f0f3f6">0</text>
+<text x="288" y="91" font-size="14" fill="#9198a1">Stars received</text>
+<text x="548" y="64" font-size="34" font-weight="600" fill="#f0f3f6">7</text>
+<text x="548" y="91" font-size="14" fill="#9198a1">Primary languages</text>
+<path d="M28 116H752" stroke="#30363d"/>
+<text x="28" y="144" font-size="11" fill="#9198a1">PUBLIC REPOSITORIES · UPDATED 20 SEP 2026</text>
+</g></svg>
