@@ -1,5 +1,5 @@
 # About Me:
-BCS @ Carleton | SWE @ Tesla
+Security @ Tesla | BCS @ Carleton
 
 #  Tech Stack:
 
