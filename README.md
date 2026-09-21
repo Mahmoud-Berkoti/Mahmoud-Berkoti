@@ -1,28 +1,23 @@
-# Mahmoud Berkoti
+<a href="https://berkotidev.vercel.app/"><img src="assets/header.svg" width="100%" alt="Mahmoud Berkoti — Security research & engineering. Tesla · Carleton University." /></a>
 
-### Security research & engineering.
+<p align="center"><a href="https://berkotidev.vercel.app/">Portfolio ↗</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/mahmoud-berkoti-752841274/">LinkedIn ↗</a> &nbsp; / &nbsp; <a href="mailto:M.berkoti@gmail.com">Get in touch ↗</a></p>
 
-Security Engineering Intern at **Tesla**. Computer Science at **Carleton University**.
+Security Engineering Intern at **Tesla**, studying Computer Science at **Carleton University**. I find vulnerabilities, test how systems fail, and build tools to help defend them.
 
-I find vulnerabilities, test how systems fail, and build tools to help defend them. My work spans application security, adversarial AI testing, and low-level security tooling.
+### Selected work
 
-[Portfolio ↗](https://berkotidev.vercel.app/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/mahmoud-berkoti-752841274/) &nbsp; · &nbsp; [Email ↗](mailto:M.berkoti@gmail.com)
-
----
-
-## Selected work
-
-| Project | Focus | Stack |
-| :--- | :--- | :--- |
-| **[Bastion](https://github.com/Mahmoud-Berkoti/Bastion)** | Packet filtering at the network driver with eBPF/XDP. | C · Go · eBPF |
-| **[Vigil](https://github.com/Mahmoud-Berkoti/Vigil)** | BGP route monitoring for hijacks, leaks, and invalid announcements. | C · SQLite · Prometheus |
-| **[Fuzzor](https://github.com/Mahmoud-Berkoti/Fuzzor)** | Adversarial testing for prompt injection, jailbreaks, and data leakage. | Python · FastAPI · Ollama |
-| **[Fracture](https://github.com/Mahmoud-Berkoti/Fracture)** | Offensive API testing for authorization and business-logic flaws. | Python · httpx · asyncio |
+<a href="https://github.com/Mahmoud-Berkoti/Bastion"><img src="assets/bastion.svg" width="49%" alt="Bastion — eBPF / XDP packet filtering" /></a>
+<a href="https://github.com/Mahmoud-Berkoti/Vigil"><img src="assets/vigil.svg" width="49%" alt="Vigil — BGP anomaly detection" /></a>
+<a href="https://github.com/Mahmoud-Berkoti/Fulcrum"><img src="assets/fulcrum.svg" width="49%" alt="Fulcrum — software-defined networking" /></a>
+<a href="https://github.com/Mahmoud-Berkoti/Fuzzor"><img src="assets/fuzzor.svg" width="49%" alt="Fuzzor — adversarial testing for LLMs" /></a>
 
 [![Bastion CI](https://github.com/Mahmoud-Berkoti/Bastion/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Mahmoud-Berkoti/Bastion/actions/workflows/ci.yml)
 [![Vigil CI](https://github.com/Mahmoud-Berkoti/Vigil/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Mahmoud-Berkoti/Vigil/actions/workflows/ci.yml)
+[![Fulcrum CI](https://github.com/Mahmoud-Berkoti/Fulcrum/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Mahmoud-Berkoti/Fulcrum/actions/workflows/ci.yml)
 
-## Toolkit
+Also building **[Fracture](https://github.com/Mahmoud-Berkoti/Fracture)** — offensive API testing for authorization and business-logic flaws.
+
+### Toolkit
 
 **Build** &nbsp; C/C++ · Python · Go · Rust · TypeScript<br>
 **Test** &nbsp; SAST/DAST · Threat modeling · LLM security · Fuzzing<br>
@@ -38,11 +33,11 @@ I find vulnerabilities, test how systems fail, and build tools to help defend th
 
 </details>
 
-## On GitHub
+### In the open
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Public GitHub repository statistics. Values and snapshot date are displayed in the image." width="780">
+  <img src="assets/activity-light.svg" alt="Public repositories, stars, and primary language distribution, refreshed daily." width="100%">
 </picture>
 
-<sub>Real public-repository data, refreshed daily. Forks are excluded. [How this works](scripts/update_activity.py).</sub>
+<sub>Generated daily from public repositories. Forks excluded. [View the source](scripts/update_activity.py).</sub>

@@ -1,14 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="164" viewBox="0 0 780 164" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="246" viewBox="0 0 780 246" role="img" aria-labelledby="title desc">
 <title id="title">Public GitHub activity</title>
-<desc id="desc">16 public repositories, 0 stars, 7 primary languages. Updated 20 Sep 2026. Forks excluded.</desc>
-<rect width="780" height="164" rx="16" fill="#0d1117"/>
+<desc id="desc">17 public repositories, 0 stars, 7 primary languages. Updated 21 Sep 2026. Forks excluded.</desc>
+<rect width="780" height="246" rx="16" fill="#132231"/>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-<text x="28" y="64" font-size="34" font-weight="600" fill="#f0f3f6">16</text>
-<text x="28" y="91" font-size="14" fill="#9198a1">Public repositories</text>
+<text x="28" y="64" font-size="34" font-weight="600" fill="#f0f3f6">17</text>
+<text x="28" y="91" font-size="14" fill="#b0c0cc">Public repositories</text>
 <text x="288" y="64" font-size="34" font-weight="600" fill="#f0f3f6">0</text>
-<text x="288" y="91" font-size="14" fill="#9198a1">Stars received</text>
+<text x="288" y="91" font-size="14" fill="#b0c0cc">Stars received</text>
 <text x="548" y="64" font-size="34" font-weight="600" fill="#f0f3f6">7</text>
-<text x="548" y="91" font-size="14" fill="#9198a1">Primary languages</text>
-<path d="M28 116H752" stroke="#30363d"/>
-<text x="28" y="144" font-size="11" fill="#9198a1">PUBLIC REPOSITORIES · UPDATED 20 SEP 2026</text>
+<text x="548" y="91" font-size="14" fill="#b0c0cc">Primary languages</text>
+<text x="28" y="143" font-size="12" fill="#b0c0cc">PRIMARY LANGUAGE · REPOSITORY COUNT</text>
+<rect x="28.00" y="158" width="268.50" height="10" rx="3" fill="#86d9bc"/>
+<circle cx="31" cy="190" r="3" fill="#86d9bc"/>
+<text x="40" y="194" font-size="11" fill="#b0c0cc">Python 6</text>
+<rect x="299.50" y="158" width="178.00" height="10" rx="3" fill="#9bbcf9"/>
+<circle cx="152" cy="190" r="3" fill="#9bbcf9"/>
+<text x="161" y="194" font-size="11" fill="#b0c0cc">TypeScript 4</text>
+<rect x="480.50" y="158" width="87.50" height="10" rx="3" fill="#f3bd75"/>
+<circle cx="273" cy="190" r="3" fill="#f3bd75"/>
+<text x="282" y="194" font-size="11" fill="#b0c0cc">Go 2</text>
+<rect x="571.00" y="158" width="42.25" height="10" rx="3" fill="#c5acf1"/>
+<circle cx="394" cy="190" r="3" fill="#c5acf1"/>
+<text x="403" y="194" font-size="11" fill="#b0c0cc">Rust 1</text>
+<rect x="616.25" y="158" width="42.25" height="10" rx="3" fill="#f39aaf"/>
+<circle cx="515" cy="190" r="3" fill="#f39aaf"/>
+<text x="524" y="194" font-size="11" fill="#b0c0cc">HTML 1</text>
+<rect x="661.50" y="158" width="87.50" height="10" rx="3" fill="#8095a6"/>
+<circle cx="636" cy="190" r="3" fill="#8095a6"/>
+<text x="645" y="194" font-size="11" fill="#b0c0cc">Other 2</text>
+<path d="M28 116H752" stroke="#2b3d4b"/>
+<text x="28" y="227" font-size="11" fill="#b0c0cc">PUBLIC REPOSITORIES · UPDATED 21 SEP 2026</text>
 </g></svg>
