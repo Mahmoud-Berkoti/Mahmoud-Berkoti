@@ -36,8 +36,8 @@ Also building **[Fracture](https://github.com/Mahmoud-Berkoti/Fracture)** — of
 ### In the open
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Public repositories, stars, and primary language distribution, refreshed daily." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg?v=2">
+  <img src="assets/activity-light.svg?v=2" alt="Public repositories, stars, and primary language distribution, refreshed daily." width="100%">
 </picture>
 
 <sub>Generated daily from public repositories. Forks excluded. [View the source](scripts/update_activity.py).</sub>
